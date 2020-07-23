@@ -2,6 +2,10 @@
 #define DIALOG_H
 #include "header_cipher.h"
 
+
+
+
+
 #include <QDialog>
 
 namespace Ui {
